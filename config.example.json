@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "serverURL": "",
+      "appId": "",
+      "masterKey": "",
+      "appName": ""
+    }
+  ],
+  "users": [
+    {
+      "user":"",
+      "pass":""
+    }
+  ]
+}
