@@ -31,3 +31,8 @@ cat config.example.json > dashboard.config.json
 ```bash
 pm2 start index.js -n example-server-dashboard
 ```
+
+4. The default mounted path is `/dashboard`, and server port is `10634`, if you want to run server with different path and port, you should run server with env
+```bash
+DATABASE_DASHBOARD_MOUNT=/example DATABASE_DASHBOARD_PORT=20064 pm2 start index.js -n example-server-dashboard
+```
