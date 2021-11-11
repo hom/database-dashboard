@@ -31,3 +31,7 @@ node_modules
 
 # config
 dashboard.config.json
+
+# package lock file
+package-lock.json
+yarn.lock

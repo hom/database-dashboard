@@ -8,10 +8,7 @@
     "url": "https://github.com/ParsePlatform/parse-server-example"
   },
   "license": "MIT",
-  "dependencies": {
-    "express": "^4.17.1",
-    "parse-dashboard": "^2.1.0"
-  },
+  "dependencies": {},
   "scripts": {
     "start": "node index.js"
   },
